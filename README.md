@@ -1,5 +1,5 @@
 # FS-ISAC EMEA Summit 2020
-This repository includes the references used for the presentation "Technology Enablement in the Intelligence Cycle and the Role of TIPs". The presentation took place during FS-ISAC EMEA Summit 2020 on 4-5 November 2020.
+This repository includes the references used for the presentation "Technology Enablement in the Intelligence Cycle and the Role of Threat Intelligence Platforms". The presentation took place during FS-ISAC EMEA Summit 2020 on 4-5 November 2020.
 
 1. ENISA - Andreas Sfakianakis, Razvna Gavrila - Exploring the opportunities and limitations of current Threat Intelligence Platforms
  https://www.enisa.europa.eu/publications/exploring-the-opportunities-and-limitations-of-current-threat-intelligence-platforms
