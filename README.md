@@ -20,4 +20,5 @@ This repository includes the references used for the presentation "Technology En
 16. Lockheed Martin - Practical Steps To Securing Process Control Networks - https://docplayer.net/9025143-Practical-steps-to-securing-process-control-networks.html
 17. FireEye - Excelerating Analysis – Tips and Tricks to Analyze Data with Microsoft Excel - https://www.fireeye.com/blog/threat-research/2019/12/tips-and-tricks-to-analyze-data-with-microsoft-excel.html
 18. SANS CTI Summit 2020 - Andreas Sfakianakis - Stop Tilting at Windmills: Three Key Lessons that CTI Teams Should Learn from the Past - https://www.sans.org/cyber-security-summit/archives/file/summit_archive_1579635728.pdf
-19. FIRST CTI 2020 - Xander Bouwman - Assessing Value. Beyond Indicator Quality - https://www.first.org/events/symposium/zurich2020/program#pAssessing-Value-Beyond-Indicator-Quality
+19. USENIX Security 2020 - Xander Bouwman, Harm Griffioen, Jelle Egbers, Christian Doerr, Bram Klievink, Michel van Eeten - https://www.usenix.org/conference/usenixsecurity20/presentation/bouwman 
+20. Alessandra de Melo e Silva, João José Costa Gondim, Robson de Oliveira Albuquerque and Luis Javier García Villalba - A Methodology to Evaluate Standards and Platforms within Cyber Threat Intelligence - https://www.mdpi.com/1999-5903/12/6/108/pdf
